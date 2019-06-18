@@ -1,0 +1,9 @@
+.idea/*
+*.pyc
+*.ipynb
+nohup.out
+./controller.sh
+.git_*
+.DS_Store
+*.npz
+*.pt
